@@ -1,4 +1,5 @@
 🇺🇸 [English version available here](README.en.md)
+Explicação em vídeo sobre o projeto: [Clique aqui](https://youtu.be/nH-ekaII3zo)
 
 # 🧪 Automação de Testes com Playwright — SauceDemo
 
